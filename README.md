@@ -1,2 +1,3 @@
 # site_android
- Mini Projeto
+  Mini Projeto de conclusão do módulo 2 do Curso em Vídeo HTML e CSS
+
